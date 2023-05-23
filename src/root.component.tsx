@@ -1,3 +1,4 @@
 export default function Root(props) {
-  return <section>{props.name} is mounted!</section>;
+  return <section>welcome in notes app where you can store all of your ideas!
+  </section>;
 }
